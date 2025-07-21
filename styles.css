@@ -1,0 +1,21 @@
+div{ background-color: deeppink;
+
+padding: 10px;
+
+}
+/* style.css */
+p {
+  color: rgb(23, 23, 23);
+  font-size: 18px;
+  line-height: 1.5;
+ border-right: 7px ;
+padding: 10px 10px ;
+border-radius: 10px 10px 20px 40px;
+background-color: lightpink; 
+border-color: black; 
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+
+}
